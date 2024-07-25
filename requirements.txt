@@ -1,0 +1,11 @@
+numpy
+pandas
+yfinance
+streamlit
+matplotlib
+tensorflow
+scikit-learn
+datetime
+prophet
+plotly
+base64
